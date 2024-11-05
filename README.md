@@ -1,12 +1,12 @@
 # Dịch Tiếng Pháp Sang Việt
 
-This project provides a translation service from French to Vietnamese using advanced natural language processing techniques. It employs the `sep2sel` model for translation, utilizes `gensim` for word embeddings with Word2Vec, and leverages `unthesesa` for processing Vietnamese text.
+This project provides a translation service from French to Vietnamese using advanced natural language processing techniques. It employs the `sep2seq` model for translation, utilizes `gensim` for word embeddings with Word2Vec, and leverages `underthesesea` for processing Vietnamese text.
 
 ## Features
 
 - **French to Vietnamese Translation**: Translate French text into Vietnamese with high accuracy.
 - **Word Embedding**: Use Word2Vec for generating word embeddings to enhance translation quality.
-- **Vietnamese Language Processing**: Process and handle Vietnamese text effectively using `unthesesa`.
+- **Vietnamese Language Processing**: Process and handle Vietnamese text effectively using `underthesea`.
 - **Customizable**: Easily adaptable for different language pairs or extensions.
 
 ## Technologies Used
